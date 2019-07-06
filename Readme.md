@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Личный проект «Что посмотреть» [![Build status][travis-image]][travis-url]
 
 * Студент: [Денис Титов](https://up.htmlacademy.ru/react/1/user/297689).
@@ -50,3 +51,6 @@ git clone SSH-адрес_вашего_форка
 
 [travis-image]: https://travis-ci.com/htmlacademy-react/297689-what-to-watch-1.svg?branch=master
 [travis-url]: https://travis-ci.com/htmlacademy-react/297689-what-to-watch-1
+=======
+# What To Watch project
+>>>>>>> c8c7fb346204e9b7c869540c280a02ac4da83ca2
